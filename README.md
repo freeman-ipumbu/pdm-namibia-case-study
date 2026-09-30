@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/pdm-community-banner.jpg" width="100%" alt="PDM supporters gathered beneath the Popular Democratic Movement banner">
+  <img src="assets/pdm-community-banner-hq.png" width="100%" alt="PDM Namibia community banner in the movement's blue, red and white identity">
 </p>
 
 <p align="center">
