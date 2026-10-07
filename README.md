@@ -95,4 +95,4 @@ Political and organisational research · information architecture · identity tr
 
 ---
 
-A Digital Experience by **[SolarSpin Technologies](https://freeman-ipumbu.pages.dev/)**. Built by Freeman Ipumbu for PDM and for every Namibian who deserves public information with clarity, confidence and life.
+A Digital Experience by **[SolarSpin Technologies](https://solarspin-namibia.pages.dev/)**. Built by Freeman Ipumbu for PDM and for every Namibian who deserves public information with clarity, confidence and life.
