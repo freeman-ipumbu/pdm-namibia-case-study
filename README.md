@@ -13,6 +13,11 @@
 </p>
 
 <p align="center">
+  <img alt="Portfolio replacement value: N$100K+" src="https://img.shields.io/badge/PORTFOLIO_VALUE-N%24100K%2B-163F80?style=for-the-badge&labelColor=07142B">
+  <img alt="Current evidence: October 2026" src="https://img.shields.io/badge/CURRENT_EVIDENCE-OCT_2026-D92335?style=for-the-badge&labelColor=07142B">
+</p>
+
+<p align="center">
   <strong><a href="https://pdm-namibia.pages.dev/">Explore the live experience</a></strong>
   &nbsp;·&nbsp;
   <a href="https://freeman-ipumbu.pages.dev/">View Freeman's portfolio</a>
@@ -41,6 +46,23 @@ The visual brief was equally demanding: no generic colour bands, filler cards or
 | **Participation journeys** | Membership, public ideas, constituency matters, contact and support-interest submissions | Explicit consent, server validation, anti-automation checks, private-by-default records and a reference for every accepted submission |
 | **Operations console** | National queues, status handling, internal notes, office and authority records, support interests and an asset register | Protected staff access, explicit allowlisting, non-indexed responses and an administrative activity trail |
 | **Governance gate** | Keeps the prototype demonstrable without silently becoming an unapproved production system | Public intake fails closed until storage, bot protection and written launch approval are deliberately configured |
+
+## Scope-based portfolio value
+
+**Portfolio replacement-value estimate: N$100,000+.** This is a scope-based estimate of what an equivalent engagement would require to reproduce the current research, strategy, experience, engineering, operational design, release hardening and handoff quality. It is not a claim that PDM was invoiced, charged or paid that amount.
+
+The value is carried by the combined system rather than by a single landing page:
+
+| Workstream | Evidence in the current programme |
+| --- | --- |
+| **Discovery and current-information research** | Stakeholder brief expansion, 2026 party/public-record verification, social-channel audit, source register and explicit treatment of uncertain facts |
+| **Brand and public experience** | PDM-specific art direction, cinematic responsive interface, Top 9 and parliamentary storytelling, interaction and motion system, accessibility and portrait focal-point control |
+| **Civic product design** | Guided membership, public-idea, parliamentary, constituency, contact and nonbinding-support journeys with routing, consent and reference-number patterns |
+| **National presence layer** | Searchable offices plus a source-linked OpenStreetMap authority network spanning national, parliamentary, regional and local representation |
+| **Operational architecture** | President/Administrator demonstration views, intake and case handling, offices, authorities, team access, audit export and party-asset lifecycle design |
+| **Trust, delivery and handoff** | International phone validation, fail-closed intake, origin checks, Turnstile design, private/no-store administration, PWA/offline boundaries, Cloudflare release work, runbooks and activation guidance |
+
+The valuation deliberately does not treat unbuilt work as delivered. Live payments, unrestricted real-data intake, Microsoft 365/SharePoint, party-domain email and fine-grained production roles remain separately governed activation stages.
 
 ## What was designed and built
 
