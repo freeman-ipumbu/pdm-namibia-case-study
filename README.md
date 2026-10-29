@@ -22,7 +22,7 @@
   &nbsp;·&nbsp;
   <a href="https://freeman-ipumbu.pages.dev/">View Freeman's portfolio</a>
   &nbsp;·&nbsp;
-  <a href="https://solarspin-namibia.pages.dev/">SolarSpin Technologies</a>
+  <a href="https://www.solarspin-namibia.xyz/">SolarSpin Technologies</a>
 </p>
 
 > **Public case study · 14 October 2026.** This repository documents the product, design system, research and operating model. Production source, private configuration, submissions and staff data remain in a separate private environment. The Pages deployment is a working prototype; PDM must approve a party-owned canonical domain and the launch-governance gates before unrestricted real-data intake.
@@ -247,7 +247,7 @@ The work demonstrates a broader principle: a modern political website should be 
 ## Project links
 
 - [PDM Namibia — live prototype](https://pdm-namibia.pages.dev/)
-- [SolarSpin Technologies](https://solarspin-namibia.pages.dev/)
+- [SolarSpin Technologies](https://www.solarspin-namibia.xyz/)
 - [Freeman Paul Ipumbu — portfolio](https://freeman-ipumbu.pages.dev/)
 - [PDM Namibia on Facebook](https://www.facebook.com/OfficialOppositionNamibia/)
 - [PDM Namibia on X](https://x.com/OfficialPDM_Na)
@@ -259,6 +259,6 @@ This is a public portfolio case study. It intentionally contains no production s
 ---
 
 <p align="center">
-  A Digital Experience by <strong><a href="https://solarspin-namibia.pages.dev/">SolarSpin Technologies</a></strong><br>
+  A Digital Experience by <strong><a href="https://www.solarspin-namibia.xyz/">SolarSpin Technologies</a></strong><br>
   Built and led by <a href="https://freeman-ipumbu.pages.dev/">Freeman Paul Ipumbu</a> for PDM Namibia
 </p>
